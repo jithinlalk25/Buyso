@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Buyso</string>
+
+    <!-- Intent Extras -->
+    <string name="calling_activity">calling_activity</string>
+    <string name="selected_image">selected_image</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+    <string name="intent_user">intent_user</string>
+
+    <!-- fragment names -->
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="view_post_fragment">View Post</string>
+    <string name="sign_out_fragment">Sign Out</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="view_profile_fragment">ViewProfile</string>
+    <string name="view_comments_fragment">View Comments</string>
+
+    <!-- strings -->
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="string_open_camera">Open Camera</string>
+    <string name="string_next">Next</string>
+    <string name="string_share">Share</string>
+
+    <string name="Rs">\u20B9</string>
+
+    <integer-array name="img_id_arr">
+        <item>@drawable/temp_image</item>
+        <item>@drawable/temp_image</item>
+        <item>@drawable/temp_image</item>
+        <item>@drawable/temp_image</item>
+    </integer-array>
+
+</resources>

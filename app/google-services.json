@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "422073714373",
+    "firebase_url": "https://buyso-f1677.firebaseio.com",
+    "project_id": "buyso-f1677",
+    "storage_bucket": "buyso-f1677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422073714373:android:1459cf6f7e3410fa",
+        "android_client_info": {
+          "package_name": "com.example.jithin.buyso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422073714373-95bs2pil3s5m4pc6kceglo0qdmst1ef3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jithin.buyso",
+            "certificate_hash": "a2e5aa5bf0a4c574900e28254a127c4c6b5fedbd"
+          }
+        },
+        {
+          "client_id": "422073714373-h8jlkre72c20tgooaasrghgjh1vda0td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9y0M3tfE6pMJBO_IevgbGI3O96wG5xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422073714373-h8jlkre72c20tgooaasrghgjh1vda0td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
